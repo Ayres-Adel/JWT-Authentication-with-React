@@ -109,11 +109,5 @@ This project is licensed under the MIT License.
 - **jsonwebtoken** for generating and verifying tokens.
 - **MongoDB** for storing user data.
 
-##How to Use
 
-- **Copy the code above.
-- **Create a file named README.md in the root of your project directory.
-- **Paste the code into the file.
-- **Customize the MONGODB_URI and JWT_SECRET placeholders in the environment variables section with your actual values.
-- **Replace your-username in the repository clone link with your actual GitHub username.
 
